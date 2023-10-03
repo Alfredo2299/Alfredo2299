@@ -1,5 +1,5 @@
-- 👋 Ciao, mi chiamo Alfredo Giorgianni!
-- 👀 Analisi dati-Statistica-ricerche di mercato
-- 🌱 Frequento il corso di Statistica presso l'università di Bologna
-- 💞️ Su Github per mettere in pratica le competenze teoriche sviluppate all'università e privatamente
+- 👋 Hi, I am Alfredo Giorgianni!
+- 👀 Data analysis-Statistics-Market research
+- 🌱 I am currently studying in Statistics at Bologna University
+- 💞️ On Github to improve my theoretical knoweledge
 - 📫 Email: alfredogiorgianni3@gmail.com
